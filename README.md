@@ -5,11 +5,11 @@
 
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /> 
 
-<h3> 🧑 I'm a Sr. Full Stack Blockchain Developer!!!</h3>
+<h3> 🧑 I'm a Sr. Software Engineer!!!</h3>
 
 - 🌱 I’m currently learning **Everything 🤣**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Fly-Pig00/](https://github.com/marlborocool/)
+- 👨‍💻 All of my projects are available at [https://github.com/flypiglang/](https://github.com/flypiglang/)
 
 - ⚡ Fun fact **I love to code**
 
@@ -20,7 +20,9 @@
 
 ✔️ Backend Development: Node.js, Express.js, Nest.js, PHP, Laravel, Ruby on rails, Python, Django, Flask
 
-✔️ Blockchain Development: Solidity, Golang, Rust, Solana, Ethereum, Smart Contract, Dapp Development, Web3.js, Ethers.js, Metaplex, NFT
+✔️ Blockchain Development: Solidity, Golang, Rust, Solana, Ethereum, Sui, Aptos, Smart Contract, Dapp Development, Web3.js, Ethers.js, Metaplex, NFT
+
+✔️ AI & Machine Learning: Python, TensorFlow, PyTorch, NLP/CV, MLOps, Data Science, Deep Learning
 
 ✔️ Testing Library: Jest, Cypress, React Testing library
 
