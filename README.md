@@ -5,7 +5,7 @@
 
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /> 
 
-<h3> 🧑 I'm a Sr. Software Engineer!!!</h3>
+<h3> 🧑 I'm a Sr. Full Stack Engineer!!!</h3>
 
 - 🌱 I’m currently learning **Everything 🤣**
 
@@ -19,6 +19,8 @@
 ✔️ Frontend Development: React, React Native, Sanity, Next.js, Vue.js, Angular, GraphQL, HTML, CSS, JavaScript(ES6)/TypeScript, Bootstrap, Material UI, Tailwind CSS
 
 ✔️ Backend Development: Node.js, Express.js, Nest.js, PHP, Laravel, Ruby on rails, Python, Django, Flask
+
+✔️ Mobile Development: Flutter/Dart, React Native, Kotlin, Swift
 
 ✔️ Blockchain Development: Solidity, Golang, Rust, Solana, Ethereum, Sui, Aptos, Smart Contract, Dapp Development, Web3.js, Ethers.js, Metaplex, NFT
 
