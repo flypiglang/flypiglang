@@ -1,15 +1,13 @@
-<h1 align="center"> Hello, everyone.<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
-
 <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png"/>
 
 
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /> 
 
-<h3> 🧑 I'm a Sr. Full Stack Engineer!!!</h3>
+<h3> 🧑 I'm a Senior Software Engineer!</h3>
 
 - 🌱 I’m currently learning **Everything 🤣**
 
-- 👨‍💻 All of my projects are available at [https://github.com/flypiglang/](https://github.com/flypiglang/)
+- 👨‍💻 All of my projects are available at [https://github.com/solpig/](https://github.com/solpig/)
 
 - ⚡ Fun fact **I love to code**
 
